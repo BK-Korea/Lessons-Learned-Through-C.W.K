@@ -2,6 +2,8 @@
 컴쟁이 성향을 발견한게 대두족장님은 대학교 2학년, 천천히 파악해도 늦지않음
 
 pycharm을 추천하심
+
+
 #나도 항상 jupyter notebook만 사용했는데, 이번기회에 pycharm 가입, student license 완료
 #근데 깔아보니 vscode랑 통합하라해서 별생각없이했는데, 문제가 되면 다시 지워서 깔거나 해야할듯, 아래는 chatgpt 답변
 
