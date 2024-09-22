@@ -1,0 +1,22 @@
+If you have a capable Apple Silicon Mac, follow these steps:
+
+1. Install the Moshi package:
+   ```
+   pip install moshi_mlx
+   ```
+
+2. To run the 4-bit quantized model (about 4GB), use the following command:
+   ```
+   python -m moshi_mlx.local_web -q 4 --hf-repo kyutai/moshika-mlx-q4
+   ```
+   If you prefer the 16-bit model (about 16GB), simply remove the `-q 4` option.  
+   
+   The flag `--hf-repo kyutai/moshika-mlx-q4` specifies the female voice ("Moshika"), while it defaults to the male voice ("Moshiko") if you don't include this option.
+
+This command will launch a web UI for you to interact with either Moshika (female) or Moshiko (male), depending on the options you've chosen.
+
+However, be aware that the system is not very stable. I encountered critical errors that caused the connection to drop before being able to carry on a full conversation. 
+
+While the conversation quality won't match GPT-4, consider it an early glimpse into the future of AI interactions. It’s not perfect now, but in a few years, you might be having seamless, lifelike conversations with AI personas like "Her" or "Him."
+
+https://x.com/i/status/1836680839230562653
