@@ -1,0 +1,57 @@
+아티클에도 몇 번 강조했는데... 인공지능 시대야. 안 하면, 낙오야. 그냥 시대에서...
+
+다음 정도는 필수니까 꼭 하셔. 이중 하나라도 왜 해야 되는지 갸웃하거나 묻고 싶으면, 이미 그대가 뭔가 잘못 생각하고 있는 거야. 플랫폼 종속적인 거 빼준 거야. 나라면 나머지도 다 해. 이미 다 했고. 
+
+(추석 연휴에 웬?... 이라는 생각이 들면, 그대랑 나랑 세계관이 다른 거고.)
+
+어제 오늘 게임 하는 중간 중간 "Data Engineering Professional Certificate" 1주차 끝냈어. 솔직히 한국에서 공부한 사람 수준이면 이 정도는 1시간 꺼리여야 해. 해보면 알지만 미국 기준으로나 1주고, 양으로 보면 1시간 남짓이야. 짱구 굴리고 실험해본다고 해도 섹션당 1-2시간이면 충분해. 물론, 기본이 워낙 부족하면 몇 배 더 걸리겠지만... 그건 호라이즌 차이니까 그대 책임인 거고, 호라이즌 차이가 얼마나 무서운지 깨닫는 계기여야 하고.
+
+저 코스별로 써 있는 추정 시간(estimated time)은 1주일에 10시간 공부한다는 가정인 건데, 난 어떤 코스도 1달은 넘긴 적이 없어. 길어야 2주 걸렸어. 평균 1주. http://DeepLearning.AI 에 있는 specializations 거의 모두 2달 정도에 끝냈으니까. 여기 필수로 포함 안 한 Tensorflow 나 MLOps까지 다 했어. 
+
+물론, 호라이즌 차이야. 난 30년 짬이니, 그대도 그러긴 어려울 거야. 그래도 1주일에 10시간 감안하면 이 모든 코스 반년 넘기면 잘못인 거야. 
+
+다시 강조하지만, 난 이 와중에도 영화도 보고, 드라마도 보고, 그림도 그리고, 게임도 해. 게임하다 너무 어려운 보스 만나면 죽어라 렙업도 해. '검은신화 오공'도 남들 80렙이면 된다는 데, 난 안 돼서 200렙까지 올렸어. 응, 그 와중에 이거 다 한 거야. 그러니 다시 말하지만, 나한테 '시간 없다'는 얘기 하면 역시 그대와 난 세계관이 다른 거야. 24xn 에서 본인 n의 크기를 절감하셔.
+
+GPT 적극 활용하면 더 짧게 끝낼 수 있어. 근데, 우리나라 1등급처럼 시험만 잘보겠다는 짱구짓은 하진 말고. GPT도 이 코스 Quiz 다 맞히는 거 아냐. 답을 보고도 나 또한 '갸웃' 하고 따지고 싶기까지 하니까. 시험은 그냥 시험이야. 큰 의미 두지 마셔. 특히 퀴즈는. 
+
+중요한 건 코딩이나 실험(Lab)이야. Optional 이라고 돼 있어도 죄다 하셔야 해. 자격증 따겠다고 공부하는 거 아니니까. 어떤 코스에서도 선택은 없어야 한다는... 다 하셔. 
+
+Lab은 빼박 혼자 해내야 하고... 호라이즌에 따라 생각보다 쉬울 수도 있고, 꽤나 어려울 수도 있으니 알아서 이겨내셔.
+
+코딩 시험은 GPT 도움 받으셔. 간단한 문제는 혼자 해보고. 너무 어렵다 싶으면 GPT랑 상의하듯 헤쳐나가보셔. 어차피 앞으로 모든 문제를 그렇게 해결하는 짬을 기르시라고. 코딩 시험은 어차피 답이 틀리면 진행이 안 되니까. 지금은 달라졌을지 모르지만 (이후 GPT가 추가학습을 했고 Claude도 있으니) 나 할때만해도 GPT도 틀리는 부분이 있었어. 근데 대부분은 GPT가 맞아. 오히려 문제가 애매한 경우도 있고. 응, 그렇게 맨땅에 헤딩하는 연습 하셔. 컴쟁이는 기본인데, 컴쟁이는 타고나. 그러니까 여러분 모두에게 컴쟁이 성향을 기대하는 건 무리고. 컴쟁이는 스스로 알아. 본인이 컴쟁이인 걸. 맨땅에 헤딩이 기본이라는 건 설명 안 해도 아는 종자들이라는 뜻. 블랙스완이라고 해서 컴쟁이일 필요는 없어. 좀 편할 뿐이야. 다른 부분에선 오히려 걸림돌일 수도 있고. 
+
+한가지 숙제 더. 어차피 지금 진행중인 "Data Engineering Professional Certificate" 할 거면 (이건 내가 필수라고 못 하겠어, 아직 진행 중이니...근데 컨셉만 놓고 보면 당연 필수), AWS 실습 하셔야 해. 
+
+클라우드 컴퓨팅 실습 자체가 필수야. 한번도 경험한 적 없는 분이 대부분일 테니 꼭 하셔. 어떤 플랫폼이든 상관없는데(마이크로소프트, 구글, 아마존 등), 내가 아마존에 익숙해서 AWS 추천하는 것 뿐야. 사실상 먼저 시작한 선도 기업이기도 하고. 그래서 탄탄해. 
+
+AWS 계정 자체도 무료고, free tier 가 있어서 공짜로 돌려볼 수 있는 작은 규모 가상 서버가 있으니 써보시라고. 앞으로는 클라우드 컴퓨팅 익숙하지 않으면 살기 어려울 거야. 그러니 익숙해지라는... 내가 처음 쓸 때만 해도 미국이랑 일본 리전 뿐이었는데 이미 오래전에 한국 (Seoul) 리전을 운영 중이니 서버 만들때 꼭 Seoul 리전 선택하시고. 미국에서 서빙하는 서버 만들려는 거 아니면... 혹시라도 실수로 잘못 만들었으면 뽀개고 다시 만드셔. 돈 드는 일 아니니.
+
+이 코스에서 하는 것 말고도 써보라는 뜻. 그냥 늘 클라우드 서버 하나는 돌려보고 사셔.
+
+3,4번 스크린샷은 새 AWS 계정 만들어서 무료 tier 가상 머신(아마존 리눅스) 올리고 내 맥에서 바로 ssh 연결한 터미널이야. 그러니까 저렇게 하면 아마존 AWS 서버 가상 머신 안에서 놀 수 있는 거야. 새 계정 만들고 무료 티어에 가상 머신 하나 만들고 ssh 연결하는 데까지 10분이야. 호라이즌이 좁으면 1시간에서 하루 내지는 일주일도 걸릴 거야.
+
+근데, 그대들도 이제 치트키가 있어. GPT. 저 과정 GPT가 다 알아. 
+
+다른 건 다 쉬운데 로그인 id나 비번 없이도 안전하게 ssh 연결하는 건 무지 어려울 거야. 나도 과정 자꾸 까먹어. GPT한테 물어보면 한방이야. 
+
+응, 그래서 10분이야 누구든. 경험해보면 알 거야. 그런데도 인공지능 안 배우는 사람들 보면 대신 등골이 오싹해야 하는 거고. 
+
+블랙스완 숙제야. 오늘 중으로 AWS 계정 만들고 가상 머신 올리고 ssh 연결해서 저 터미널 화면 꼭 보셔.
+
+터미널은 기본으로 쓸줄 알아야 해. 맥이나 리눅스 써 본 사람이면 쉬울 텐데, 윈도우만 죽어라 쓴 사람은... 애매할 거야. 그건 그대 잘못이야. 알아서 이겨내셔.
+
+참고로, t2 머신만 무료이니 다른 서버 이미지 선택하면 돈 나갈 수 있으니 주의하셔. free 라고 써 있는 것만 써보고, 돈 내고 쓸지는 나중에 알아서 선택하시고.
+
+맥도 생겨서 난 이제 인공지능 서버로는 실물 맥 안 살지도 몰라.
+
+👉 Data Engineering Professional Certificate (진행중)
+https://coursera.org/professional-certificates/data-engineering
+
+👉 Machine Learning Specialization(3 courses): 
+Estimated time to complete at 10 hours a week: 2 months https://deeplearning.ai/courses/machine-learning-specialization/
+👉 Mathematics for Machine Learning and Data Science Specialization(3 courses): Done
+Estimated time to complete at 10 hours a week: 2 months https://deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/
+👉 The Deep Learning Specialization(5 courses): Done
+Estimated time to complete at 10 hours a week: 3 months https://deeplearning.ai/courses/deep-learning-specialization/
+👉 Natural Language Processing Specialization (4 courses): Done
+Estimated time to complete at 10 hours a week: 3 months https://deeplearning.ai/courses/natural-language-processing-specialization/
